@@ -1,6 +1,6 @@
 # LAKSHAY GUPTA
 
-📧 lakshaygupta3110@gmail.com | 📞 9818696017 | [LinkedIn](http://www.linkedin.com/in/lakshay-gupta-3284311b2) | [GitHub](https://github.com/lakshay-9818)
+📧 lakshaygupta3110@gmail.com | 📞 9818696017 | [f0e1](http://www.linkedin.com/in/lakshay-gupta-3284311b2) | [f09b](https://github.com/lakshay-9818)
 
 ## Education
 
