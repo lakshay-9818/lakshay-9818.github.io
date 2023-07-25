@@ -1,6 +1,6 @@
 # LAKSHAY GUPTA
 
-📧 lakshaygupta3110@gmail.com | 📞 9818696017 | [f0e1](http://www.linkedin.com/in/lakshay-gupta-3284311b2) | [f09b](https://github.com/lakshay-9818)
+📧 lakshaygupta3110@gmail.com | 📞 9818696017 | [LinkedIn](http://www.linkedin.com/in/lakshay-gupta-3284311b2) | [GitHub](https://github.com/lakshay-9818)
 
 ## Education
 
@@ -13,13 +13,13 @@ CBSE (Class XII), Aggregate: 90.2% | 2017 - 2018
 ## Skills
 
 - Web Development Technologies and Frameworks: ReactJs, Redux, NodeJs, ExpressJs, NextJs
-- Programming: Java
+- Programming: Java,JavaScript
 - Database: MongoDb, Firebase, MySQL
-- Version Control: Git
+- Version Control: Git, GitHub
 - CSS, Bootstrap, jQuery, Ajax
 - JavaScript
 - DBMS
-- GitHub
+
 
 ## Projects
 
