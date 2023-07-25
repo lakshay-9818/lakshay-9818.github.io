@@ -1,7 +1,3 @@
-# LAKSHAY GUPTA
-
-📧 lakshaygupta3110@gmail.com | 📞 9818696017 | [LinkedIn](http://www.linkedin.com/in/lakshay-gupta-3284311b2) | [GitHub](https://github.com/lakshay-9818)
-
 ## Education
 
 **Maharaja Agrasen Institute of Technology, Delhi**  
@@ -19,7 +15,7 @@ CBSE (Class XII), Aggregate: 90.2% | 2017 - 2018
 - CSS, Bootstrap, jQuery, Ajax
 - JavaScript
 - DBMS
-<img alt ="Java" src="https://img.shields.io/badge/Java-11-Red.svg" style="margin:2px;"/>  
+ 
 <img alt="HTML5" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" style="margin:2px;"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
@@ -37,27 +33,27 @@ CBSE (Class XII), Aggregate: 90.2% | 2017 - 2018
 
 ## Projects
 
-**Service Marketing Website** [Link](http://13.50.240.179:6565/)										
+**Service Marketing Website** [Live Project](http://13.50.240.179:6565/)										
 - Full Stack Web-Application made using MERN, it helps users find local workers for a variety of jobs.
 - Users can post a review, add favorites, upload profile pictures, and do a lot more.
 - Ajax, APIs, jQuery were also used for this project.
 
-**Ecommerce Website** [Link](https://ecommerce-jsm-git-main-lakshay-9818.vercel.app/)											
+**Ecommerce Website** [Live Project](https://ecommerce-jsm-git-main-lakshay-9818.vercel.app/)											
 - Responsive, shopping website with a clean UI, attractive navigation bar with a dropdown list for different categories.
 - NextJs was used for the project.
 - Payment Functionality was added with the use of Stripe.
 
-**Photofolio - Online Photo Album** [Link](https://my-photofolio-app.netlify.app/)
+**Photofolio - Online Photo Album** [Live Project](https://my-photofolio-app.netlify.app/)
 - React app that allows users to upload, organize, and share their digital photos.
 - Feature-rich app made using Firebase, React.js, and other packages.
 
-**Expense-Tracker** [Link](https://expense-tracker-cafdb.web.app/)
+**Expense-Tracker** [Live Project](https://expense-tracker-cafdb.web.app/)
 - Webapp that helps users keep track of incomes, expenses, balance with an interactive and responsive UI.
 - Used ReactJs, Firebase, APIs for the project.
 
 ## Trainings and Certifications
 
-- **Full Stack Web Development | MERN Stack - Coding Ninjas** | Oct 2022 – July 2023
+- **Full Stack Web Development |MERN Stack - Coding Ninjas** | Oct 2022 – July 2023
   - Learnt to build entire web applications using MongoDB, Express.js, React.js, and Node.js.
   - Certified in Front-End and Back-End development.
 
