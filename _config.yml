@@ -1,0 +1,13 @@
+title: Lakshay Gupta
+logo: "/Lakshay.png"
+description: >
+  <br>
+  Software Engineer | FullStack Engineer
+  <br>
+  <a href="http://www.linkedin.com/in/lakshay-gupta-3284311b2">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:lakshaygupta3110@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+theme: jekyll-theme-minimal
