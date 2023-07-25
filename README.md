@@ -1,3 +1,4 @@
+
 ## Education
 
 **Maharaja Agrasen Institute of Technology, Delhi**  
@@ -53,12 +54,12 @@ CBSE (Class XII), Aggregate: 90.2% | 2017 - 2018
 
 ## Trainings and Certifications
 
-- **Full Stack Web Development |MERN Stack - Coding Ninjas** | Oct 2022 – July 2023
+- **Full Stack Web Development using MERN- Coding Ninjas** | Oct 2022 – July 2023
   - Learnt to build entire web applications using MongoDB, Express.js, React.js, and Node.js.
   - Certified in Front-End and Back-End development.
 
 - **Core Java and Java Enterprise Edition – Wipro** | May 2022 - Oct 2022
-  - Studied Java FullStack and J2EE in the training by TalenNext (Certificate).
+  - Studied Java FullStack and J2EE in the training by TalenNext.
 
 - **Data Structures and Algorithms with Java - Coding Ninjas** | May 2022 - Sept 2022
   - Learnt all important topics and practiced a lot of DSA questions.
