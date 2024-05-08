@@ -7,7 +7,7 @@ Oct 2023 onwards
 - Utilized React Hooks, routing, and performed complex state management, while integrating over 18+ REST APIs to enhance the application’s functionality and data management capabilities.
 - Collaborated with cross-functional teams to ensure timely project delivery.
 
-### Software Developer Intern at [Kursaha](https://drive.google.com/file/d/1okcAYDMIodhokbaJ2K9LDMxDLNDnpeuW/view?usp=sharing)
+### Software Developer Intern at Kursaha
 Dec 2022 -- Feb 2023 (Remote)
 
 - Utilized ReactJS to redesign the website, focusing on enhancing the user experience. Implemented over 30+ new features and enhanced 50+ existing functionalities, resulting in heightened user engagement.
