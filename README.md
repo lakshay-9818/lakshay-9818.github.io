@@ -7,14 +7,14 @@ Oct 2023 onwards
 - Utilized React Hooks, routing, and performed complex state management, while integrating over 18+ REST APIs to enhance the application’s functionality and data management capabilities.
 - Collaborated with cross-functional teams to ensure timely project delivery.
 
-### Software Developer Intern at Ukom
+### Software Developer Intern at [Kursaha](https://drive.google.com/file/d/1okcAYDMIodhokbaJ2K9LDMxDLNDnpeuW/view?usp=sharing)
 Dec 2022 -- Feb 2023 (Remote)
 
 - Utilized ReactJS to redesign the website, focusing on enhancing the user experience. Implemented over 30+ new features and enhanced 50+ existing functionalities, resulting in heightened user engagement.
 - Used **NextJS, TypeScript, React-Bootstrap, and SCSS**.
 - Implemented bug fixes to enhance application stability and performance.
 
-### Teaching Assistant at Coding Ninjas
+### [Teaching Assistant](https://ninjasfiles.s3.amazonaws.com/certificate937834c90ca93edd8e6860b4d5c9b2e7b3b7.pdf) at Coding Ninjas
 Jan 2024 -- April 2024 (Remote)
 
 - Worked as a Full Stack(MERN) SME ,mentored **115 students** ,resolved **200+ doubts** and evaluated 10 projects.
